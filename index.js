@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Subscribe to MiniSae","Star High Student President","Live Laugh Star","Watching: LuckyStar and the Cosmic Gems"];
 
 
 let currentIndex = 0;
